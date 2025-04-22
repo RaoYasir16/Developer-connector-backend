@@ -11,24 +11,16 @@ A complete backend API built with Node.js, Express.js, and MongoDB for managing 
 
 ✅ Public developer directory with skill-based filtering
 
-This is a great starting point for full-stack portfolio websites, dev networking apps, or resumes powered by real backend data.
+This is a great starting point for full-stack portfolio websites, dev networking apps, or resumes powered by real backend data.<br>
 🔧 Technologies Used:
-Node.js
-
-Express.js
-
-MongoDB + Mongoose
-
-JSON Web Tokens (JWT)
-
-bcryptjs
-
-dotenv
-Features:
-Secure auth system
-
-Profile, experience, education, and project management
-
-Clean modular structure with controller-based routing
-
-Ready-to-use REST API for frontend integration
+Node.js <br>
+Express.js <br>
+MongoDB + Mongoose<br>
+JSON Web Tokens (JWT)<br>
+bcryptjs<br>
+dotenv<br>
+Features:<br>
+Secure auth system<br>
+Profile, experience, education, and project management<br>
+Clean modular structure with controller-based routing<br>
+Ready-to-use REST API for frontend integration<br>
