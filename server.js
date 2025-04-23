@@ -5,6 +5,7 @@
     const DB = require("./config/db");
     const userRoute = require("./routes/userRoute");
     const profileRoute = require("./routes/userProfileRoute");
+    const postRoute = require("./routes/postRoute");
    
 
 
@@ -13,6 +14,7 @@
 
     app.use("/",userRoute);
     app.use("/",profileRoute);
+    app.use("/user",postRoute);
 
     const port = process.env.PORT || 3000
     app.listen(port,()=>{
